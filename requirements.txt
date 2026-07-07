@@ -1,3 +1,4 @@
+
+instagrapi
 python-telegram-bot
-yt-dlp
-tgcrypto
+requests
